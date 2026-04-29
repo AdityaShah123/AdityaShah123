@@ -231,18 +231,10 @@ End-to-end airline operations — fleet, booking, scheduling. No turbulence in t
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaShah123&bg_color=070b14&color=06b6d4&line=6366f1&point=818cf8&area=true&hide_border=true" width="100%"/>
 
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
 
 </div>
+
+<br>
 
 ---
