@@ -27,6 +27,8 @@
 *My brain runs on curiosity and chai.*
 *If you want to treat me to a cup, I promise I'll use that energy to build something worth your while.* ☕
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Shah-0f172a?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://linkedin.com/in/aditya-shah-a530bb21a)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Email-adishah0205%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:adishah0205@gmail.com)
@@ -43,29 +45,22 @@
 
 ## `◈` About Me
 
-```python
-class Aditya:
-    name        = "Aditya Shah"
-    location    = "New Jersey, USA"
-    education   = {
-        "masters" : "M.S. Data Science, Rutgers University (GPA 3.95)",
-        "bachelors": "B.Tech Mathematics and Computing, DA-IICT"
-    }
-    experience  = [
-        "Data Scientist @ TCN Investments (Oct 2024 - Present)",
-        "Business Analyst Intern @ Searce Inc.",
-        "Research Assistant @ DA-IICT (Feedback Alignment + Plasma ID)",
-    ]
-    coursework  = [
-        "Deep Learning", "NLP", "Big Data", "Cloud Computing",
-        "Algorithmic Trading", "Financial Data Mining",
-        "Quantum Computation", "DNA Storage", "Cryptography"
-    ]
-    currently   = ["building pipelines", "fine-tuning LLMs", "caffeinating"]
+**Hey, I'm Aditya** — a Data Scientist and ML researcher currently pursuing my M.S. in Data Science at **Rutgers University** (GPA 3.95). I did my undergrad in Mathematics and Computing at **DA-IICT**, where I also spent two years doing research in neural architectures and bioinformatics.
 
-    def fun_fact(self):
-        return "I built a mood-to-playlist generator. It mostly recommends sad songs at 2am."
-```
+I currently work as a **Data Scientist at TCN Investments**, building ETL pipelines and forecasting models at scale. Before that I interned at **Searce Inc.** where I built an AI chatbot that cut customer query resolution time by 83%.
+
+My sweet spot is where messy data meets real problems — whether that's fine-tuning LLMs, engineering billion-record pipelines, or training bio-inspired neural networks at 2am.
+
+<br>
+
+| | |
+|---|---|
+| 🎓 **Education** | M.S. Data Science, Rutgers University &nbsp;·&nbsp; B.Tech MnC, DA-IICT |
+| 💼 **Experience** | Data Scientist @ TCN Investments &nbsp;·&nbsp; Intern @ Searce Inc. &nbsp;·&nbsp; Research @ DA-IICT |
+| 📍 **Location** | New Jersey, USA |
+| 🔬 **Research** | Neural Architectures &nbsp;·&nbsp; Graph ML &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Bioinformatics |
+| 📚 **Coursework** | Deep Learning &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Big Data &nbsp;·&nbsp; Algorithmic Trading &nbsp;·&nbsp; Quantum Computation &nbsp;·&nbsp; Cryptography |
+| ⚡ **Fun fact** | I built a mood-to-playlist generator. It mostly recommends sad songs at 2am. |
 
 <br>
 
@@ -82,6 +77,8 @@ Fine-tuned RoBERTa on 50K emotion-labeled samples (94% accuracy). Built a semant
 
 `RoBERTa` `SBERT` `FAISS` `PyTorch` `Spotify API` `NLP`
 
+[View Repo](https://github.com/AdityaShah123/Mood-to-Playlist-Generator)
+
 </td>
 <td width="50%" valign="top">
 
@@ -89,6 +86,8 @@ Fine-tuned RoBERTa on 50K emotion-labeled samples (94% accuracy). Built a semant
 Distributed Spark ETL pipeline processing 1.7 billion records. Optimized via partition tuning and broadcast joins, cutting pipeline runtime by 35% on AWS EMR.
 
 `PySpark` `Spark SQL` `AWS S3` `AWS EMR` `Hadoop` `Parquet`
+
+[View Repo](https://github.com/AdityaShah123/NYC-Taxi-Data-Engineering-Pipeline)
 
 </td>
 </tr>
@@ -143,6 +142,8 @@ Public-key cryptography protocol for mobile payments. Because "trust me bro" is 
 Normalized schema with ACID-compliant transactions and row-level locking for 100 concurrent bids. 12 REST API endpoints with JWT auth, RBAC, and automated bid expiry.
 
 `Node.js` `Express` `PostgreSQL` `Prisma ORM` `JWT` `REST API`
+
+[View Repo](https://github.com/AdityaShah123/Online-Auction-Platform)
 
 </td>
 <td width="50%" valign="top">
@@ -234,7 +235,3 @@ End-to-end airline operations — fleet, booking, scheduling. No turbulence in t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
----
