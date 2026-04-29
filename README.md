@@ -25,7 +25,7 @@
 <div align="center">
 
 *My brain runs on curiosity and chai.*
-*My code compiles. My chai disappears. If you ever want to fund either of those habits, I'm not stopping you :)* ☕
+*My code compiles. My chai disappears. If you ever want to fund either of those habits, I'm not stopping you :)☕*
 
 <br>
 
