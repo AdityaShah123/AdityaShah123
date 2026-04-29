@@ -27,10 +27,6 @@
 *My brain runs on curiosity and chai.*
 *If you want to treat me to a cup, I promise I'll use that energy to build something worth your while.* ☕
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Shah-0f172a?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://linkedin.com/in/aditya-shah-a530bb21a)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Email-adishah0205%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:adishah0205@gmail.com)
@@ -238,5 +234,18 @@ End-to-end airline operations — fleet, booking, scheduling. No turbulence in t
 </div>
 
 <br>
+
+---
+
+<div align="center">
+
+*My brain runs on curiosity and chai.*
+*If you want to treat me to a cup, I promise I'll use that energy to build something worth your while.* ☕
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
+
+</div>
 
 ---
