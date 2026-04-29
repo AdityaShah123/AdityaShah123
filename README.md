@@ -25,7 +25,7 @@
 <div align="center">
 
 *My brain runs on curiosity and chai.*
-*If you want to treat me to a cup, I promise I'll use that energy to build something worth your while.* ☕
+*If you want to treat me to a cup, I promise I'll use that energy to build something worth your while :)* ☕
 
 <br>
 
@@ -56,11 +56,11 @@ My sweet spot is where messy data meets real problems — whether that's fine-tu
 | | |
 |---|---|
 | 🎓 **Education** | M.S. Data Science, Rutgers University &nbsp;·&nbsp; B.Tech MnC, DA-IICT |
-| 💼 **Experience** | Data Scientist @ TCN Investments &nbsp;·&nbsp; Intern @ Searce Inc. &nbsp;·&nbsp; Research @ DA-IICT |
-| 📍 **Location** | New Jersey, USA |
+| 💼 **Experience** | Data Scientist @ TCN Investments &nbsp;·&nbsp; Business Analyst Intern @ Searce Inc. &nbsp;·&nbsp; Research Intern @ DA-IICT |
+| 📍 **Location** | New York City, USA | Ahmedabad, GJ, India |
 | 🔬 **Research** | Neural Architectures &nbsp;·&nbsp; Graph ML &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Bioinformatics |
 | 📚 **Coursework** | Deep Learning &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Big Data &nbsp;·&nbsp; Algorithmic Trading &nbsp;·&nbsp; Quantum Computation &nbsp;·&nbsp; Cryptography |
-| ⚡ **Fun fact** | I built a mood-to-playlist generator. It mostly recommends sad songs at 2am. |
+| ⚡ **Fun fact** | I built a mood-to-playlist generator. It mostly recommends sad songs at 2am :( |
 
 <br>
 
