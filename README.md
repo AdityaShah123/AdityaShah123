@@ -239,9 +239,6 @@ End-to-end airline operations — fleet, booking, scheduling. No turbulence in t
 
 <div align="center">
 
-*My brain runs on curiosity and chai.*
-*If you want to treat me to a cup, I promise I'll use that energy to build something worth your while.* ☕
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
