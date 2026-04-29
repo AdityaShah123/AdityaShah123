@@ -25,7 +25,7 @@
 <div align="center">
 
 *My brain runs on curiosity and chai.*
-*If you want to treat me to a cup, I promise I'll use that energy to build something worth your while :)* ☕
+*My code compiles. My chai disappears. If you ever want to fund either of those habits, I'm not stopping you :)* ☕
 
 <br>
 
